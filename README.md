@@ -1,14 +1,19 @@
 # Hello World!, I'm Tanvir Anjom Siddique, a Bangladeshi Web Developer 👋🏼:
 
-🛜 currently working on my own [webpage](https://www.tanvirsweb.github.io)
+🛜 currently working on my own [webpage](https://tanvirsweb.github.io)
 <br>👨🏼‍🎓 Graduate CSE Engineer from RUET
 <br>👨🏼‍💻 working as a web developer since 2020
 
 ## 🌐 Socials:
 
+[📞 Phone: 01715619397](tel:01715619397)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvir.anjom.siddique@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanviranjomsiddique.alvi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-anjom-siddique)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvir.anjom.siddique@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008CBA.svg?logo=google-chrome&logoColor=white)](https://tanvirsweb.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/tanvirsweb)
+[![Coursera](https://img.shields.io/badge/Coursera-2A73CC?logo=coursera&logoColor=white)](https://www.coursera.org/user/68c3b690076eb7a16bc673208dfcaf34)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Tanvir-Anjom-Siddique)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anjomsiddique)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tanviranjomsiddique)
