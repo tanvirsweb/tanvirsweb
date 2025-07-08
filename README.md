@@ -1,4 +1,13 @@
-# Hello World!, I'm Tanvir Anjom Siddique, a Bangladeshi Web Developer 👋🏼:
+<img src="img/banner.png" style="width:100%; height:150px">
+
+---
+
+# 👋🏼 Hello World!
+
+I'm **Tanvir Anjom Siddique** — a **CSE Engineer** from **Bangladesh** 🇧🇩
+💻 **Full-Stack Web Developer** | 🤖 **Machine Learning Enthusiast** | 📱 **Android Developer**
+
+---
 
 🛜 currently working on my own [webpage](https://tanvirsweb.github.io)
 <br>👨🏼‍🎓 Graduate CSE Engineer from RUET
